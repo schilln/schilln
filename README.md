@@ -1,7 +1,13 @@
 # About me
 I'm a senior studying **applied math** and completing a concentration in data science and machine learning.
 
-# Personal projects
+# Projects
+
+## ACME (Applied and Computational Mathematics Emphasis)
+This is the full name of my major along with its handy acronym. It's a blend of **math**, **computer science**, and **statistics**, with the goal of understanding, designing, and implementing optimization algorithms and machine learning.
+
+On my profile you'll find my repository named "ACME." It contains my work on coding labs and will be updated with additional work from time to time.
+
 ## CAD (computer-aided design)
 What do you get when you combine **3D modeling** with **math and programming**? Onshape's *FeatureScript*.<br>
 Check out these projects I coded:
