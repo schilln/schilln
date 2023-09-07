@@ -6,7 +6,7 @@ I'm a senior studying **applied math** and completing a concentration in data sc
 ## ACME (Applied and Computational Mathematics Emphasis)
 This is the full name of my major along with its handy acronym. It's a blend of **math**, **computer science**, and **statistics**, with the goal of understanding, designing, and implementing optimization algorithms and machine learning.
 
-Please message me (e.g. on LinkedIn) for access to my ACME repository which contains my work on coding labs and will be updated with additional work from time to time.
+Please message me (e.g. on LinkedIn, linked on my profile) for access to my ACME repository which contains my work on coding labs and will be updated with additional work from time to time.
 
 In the meantime... check out my personal projects below!
 
