@@ -60,6 +60,15 @@ Though certainly a few steps removed from managing any real vehicles, preliminar
 (According to our model, of course.)
 Moreover, we learned a lot about optimal control—and developed a greater appreciation for those who *do* strive to combat congestion with traffic controls.
 
+## Why does everyone use the dot product in neural nets? ([paper and code](https://github.com/schilln/word-embeddings))
+
+The vector dot product $\mathbf v_1 \cdot \mathbf v_2$ is used almost everywhere in current neural network research and in production models.
+It provides one measure of *similarity* between data points—but it's not the only one.
+Cosine similarity (essentially a normalized dot product) and distance under a norm $\lVert \mathbf v_1 - \mathbf v_2 \rVert$ provide similar functionality.
+Why is the dot product preferred?
+
+In this paper I investigate the effect on one model's performance of each of these measures of similarity to either **validate** or **challenge** the popular usage of the dot product.
+
 ## Analyzing neural net loss surfaces in "dataspace" ([paper and code](https://github.com/schilln/loss-surfaces-in-data))
 
 Traditional deep learning research often examines a model's loss surface in "weightspace"—one measures how the loss changes on a dataset as the parameters, or weights, vary.
