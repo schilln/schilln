@@ -10,6 +10,16 @@ Please message me (e.g. on LinkedIn, linked on my profile) for access to my ACME
 
 In the meantime... check out my personal projects below!
 
+## Analyzing neural net loss surfaces in "dataspace" ([paper and code](https://github.com/schilln/loss-surfaces-in-data))
+
+Traditional deep learning research often examines a model's loss surface in "weightspace"—one measures how the loss changes on a dataset as the parameters, or weights, vary.
+Many researchers believe that "flat minimizers" of the loss surface correspond to better generalization, or performance of the model on unseen data.
+However, good generalization actually consists of flat minimizers in *dataspace*, not weightspace.
+That is, a small variation in data—such as the difference between unseen data and training data—should not lead to a significant decrease in model performance.
+
+To that end, this project makes a first attempt at answering the question, How do loss surfaces in weightspace compare with those in dataspace?
+An answer to this question would justify or refute the claim that "flat minimizers" in weightspace correspond to good generalization.
+
 ## CAD (computer-aided design)
 What do you get when you combine **3D modeling** with **math and programming**? Onshape's *FeatureScript*.<br>
 Check out these projects I coded:
