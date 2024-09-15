@@ -17,6 +17,15 @@ Sleep researchers have identified various stages of sleep.
 When a patient's sleep stages are of interest, researchers typically record the patient's brain waves and annotate them with sleep stages by hand.
 To practice our skills with **machine learning methods**, fellow students and I employed various models (including the Kalman filter, reservoir computing, and more) to do the same.
 
+## Optimal freeway on-/off-ramp control ([paper](Poptimal_freeway_corntrol.pdf))
+
+No one enjoys driving in traffic.
+While it's a reality of a growing populace, good traffic signaling should be able to help.
+As part of our study of optimal control, some classmates and I modeled freeway on- and off-ramps using differential equations and then utilized various **optimal control techniques** to manage traffic flow.
+Though certainly a few steps removed from managing any real vehicles, preliminary results suggest our optimal control approach works!
+(According to our model, of course.)
+Moreover, we learned a lot about optimal control—and developed a greater appreciation for those who *do* strive to combat congestion with traffic controls.
+
 ## Analyzing neural net loss surfaces in "dataspace" ([paper and code](https://github.com/schilln/loss-surfaces-in-data))
 
 Traditional deep learning research often examines a model's loss surface in "weightspace"—one measures how the loss changes on a dataset as the parameters, or weights, vary.
