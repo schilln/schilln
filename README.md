@@ -38,20 +38,20 @@ Check out these other projects I've worked on:
 
 # School projects
 
-## Modeling and altering the Sun's gravity ([paper](2023_A_Space_ODE-ssey.pdf))
+## Modeling and altering the Sun's gravity ([paper](papers/2023_A_Space_ODE-ssey.pdf))
 
 We take for granted Newton's laws of motion and his universal law of gravitation.
 To help us learn about **ordinary differential equations** (in preparation for studying partial differential equations and optimal control), some fellow students and I wondered, What happens if we *change* the law of gravitation?
 This paper is the result!
 (Along with some other experiments.)
 
-## Classifying and forecasting sleep states using brain waves ([paper](Do_UMAP_when_you're_tired.pdf))
+## Classifying and forecasting sleep states using brain waves ([paper](papers/Do_UMAP_when_you're_tired.pdf))
 
 Sleep researchers have identified various stages of sleep.
 When a patient's sleep stages are of interest, researchers typically record the patient's brain waves and annotate them with sleep stages by hand.
 To practice our skills with **machine learning methods**, fellow students and I employed various models (including the Kalman filter, reservoir computing, and more) to do the same.
 
-## Optimal freeway on-/off-ramp control ([paper](Poptimal_freeway_corntrol.pdf))
+## Optimal freeway on-/off-ramp control ([paper](papers/Poptimal_freeway_corntrol.pdf))
 
 No one enjoys driving in traffic.
 While it's a reality of a growing populace, good traffic signaling should be able to help.
