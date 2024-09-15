@@ -11,6 +11,12 @@ To help us learn about ordinary differential equations (in preparation for study
 This paper is the result!
 (Along with some other experiments.)
 
+## Classifying and forecasting sleep states using brain waves ([paper](Do_UMAP_when_you're_tired.pdf))
+
+Sleep researchers have identified various stages of sleep.
+When a patient's sleep stages are of interest, researchers typically record the patient's brain waves and annotate them with sleep stages by hand.
+To practice our skills with **machine learning methods**, fellow students and I employed various models (including the Kalman filter, reservoir computing, and more) to do the same.
+
 ## Analyzing neural net loss surfaces in "dataspace" ([paper and code](https://github.com/schilln/loss-surfaces-in-data))
 
 Traditional deep learning research often examines a model's loss surface in "weightspace"—one measures how the loss changes on a dataset as the parameters, or weights, vary.
