@@ -3,12 +3,6 @@ I'm a senior studying **applied math** and completing a concentration in data sc
 
 # Projects
 
-## ACME (Applied and Computational Mathematics Emphasis)
-This is the full name of my undergraduate major along with its handy acronym.
-It's a blend of **math**, **computer science**, and **statistics**, with the goal of understanding, designing, and implementing optimization algorithms and machine learning.
-
-Please message me (e.g. on LinkedIn, linked on my profile) for access to my ACME repository which contains my work on coding labs and will be updated with additional work from time to time.
-
 ## Analyzing neural net loss surfaces in "dataspace" ([paper and code](https://github.com/schilln/loss-surfaces-in-data))
 
 Traditional deep learning research often examines a model's loss surface in "weightspace"—one measures how the loss changes on a dataset as the parameters, or weights, vary.
@@ -18,6 +12,12 @@ That is, a small variation in data—such as the difference between unseen data 
 
 To that end, this project makes a first attempt at answering the question, How do loss surfaces in weightspace compare with those in dataspace?
 An answer to this question would justify or refute the claim that "flat minimizers" in weightspace correspond to good generalization.
+
+## ACME (Applied and Computational Mathematics Emphasis)
+This is the full name of my undergraduate major along with its handy acronym.
+It's a blend of **math**, **computer science**, and **statistics**, with the goal of understanding, designing, and implementing optimization algorithms and machine learning.
+
+Please message me (e.g. on LinkedIn, linked on my profile) for access to my ACME repository which contains my work on coding labs and will be updated with additional work from time to time.
 
 ## CAD (computer-aided design)
 What do you get when you combine **3D modeling** with **math and programming**? Onshape's *FeatureScript*.<br>
