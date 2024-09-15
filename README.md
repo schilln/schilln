@@ -7,7 +7,7 @@ Having completed an undergraduate degree in **applied math** with a concentratio
 ## Modeling and altering the Sun's gravity ([paper](2023_A_Space_ODE-ssey.pdf))
 
 We take for granted Newton's laws of motion and his universal law of gravitation.
-To help us learn about ordinary differential equations (in preparation for studying partial differential equations and optimal control), we wondered, What happens if we *change* the law of gravitation?
+To help us learn about **ordinary differential equations** (in preparation for studying partial differential equations and optimal control), some fellow students and I wondered, What happens if we *change* the law of gravitation?
 This paper is the result!
 (Along with some other experiments.)
 
@@ -24,8 +24,8 @@ Many researchers believe that "flat minimizers" of the loss surface correspond t
 However, good generalization actually consists of flat minimizers in *dataspace*, not weightspace.
 That is, a small variation in data—such as the difference between unseen data and training data—should not lead to a significant decrease in model performance.
 
-To that end, this project makes a first attempt at answering the question, How do loss surfaces in weightspace compare with those in dataspace?
-An answer to this question would justify or refute the claim that "flat minimizers" in weightspace correspond to good generalization.
+To that end, in this project I make a first attempt at answering the question, How do loss surfaces in weightspace compare with those in dataspace?
+An answer to this question could **justify** or **refute** the claim that "flat minimizers" in weightspace correspond to good generalization.
 
 ## ACME (Applied and Computational Mathematics Emphasis)
 This is the full name of my undergraduate major along with its handy acronym.
