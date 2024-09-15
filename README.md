@@ -3,6 +3,13 @@ I'm a senior studying **applied math** and completing a concentration in data sc
 
 # Projects
 
+## Modeling and altering the Sun's gravity ([paper](2023_A_Space_ODE-ssey.pdf))
+
+We take for granted Newton's laws of motion and his universal law of gravitation.
+To help us learn about ordinary differential equations (in preparation for studying partial differential equations and optimal control), we wondered, What happens if we *change* the law of gravitation?
+This paper is the result!
+(Along with some other experiments.)
+
 ## Analyzing neural net loss surfaces in "dataspace" ([paper and code](https://github.com/schilln/loss-surfaces-in-data))
 
 Traditional deep learning research often examines a model's loss surface in "weightspace"—one measures how the loss changes on a dataset as the parameters, or weights, vary.
