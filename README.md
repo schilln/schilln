@@ -1,5 +1,6 @@
 # About me
-I'm a senior studying **applied math** and completing a concentration in data science and machine learning.
+I'm a mathematics master's student.
+Having completed an undergraduate degree in **applied math** with a concentration in data science and machine learning, I enjoy all things math and programming.
 
 # Projects
 
