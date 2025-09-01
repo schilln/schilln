@@ -1,4 +1,5 @@
 # About me
+
 I'm a mathematics master's student.
 Having completed an undergraduate degree in **applied math** with a concentration in data science and machine learning, I enjoy all things math and programming.
 
@@ -31,6 +32,7 @@ It is commonly developed using trigonometric basis functions (i.e., sines and co
 While some work remains to be done, I've made significant progress, and it's been a fun experience working through the math with relevant literature as a guide.
 
 ## CAD (computer-aided design)
+
 What do you get when you combine **3D modeling** with **math and programming**?
 Onshape's *FeatureScript*.<br>
 Check out these projects I coded:
@@ -88,8 +90,7 @@ That is, a small variation in data—such as the difference between unseen data 
 To that end, in this project I make a first attempt at answering the question, How do loss surfaces in weightspace compare with those in dataspace?
 An answer to this question could **justify** or **refute** the claim that "flat minimizers" in weightspace correspond to good generalization.
 
-## ACME (Applied and Computational Mathematics Emphasis)
+# ACME (Applied and Computational Mathematics Emphasis)
+
 This is the full name of my undergraduate major along with its handy acronym.
 It's a blend of **math**, **computer science**, and **statistics**, with the goal of understanding, designing, and implementing optimization algorithms and machine learning.
-
-Please message me (e.g. on LinkedIn, linked on my profile) for access to my ACME repository which contains my work on coding labs and will be updated with additional work from time to time.
