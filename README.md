@@ -20,6 +20,15 @@ See the "develop" branch in the source repository for more recent work.
 
 (Hart, G. W. (1995). Multidimensional Analysis: Algebras and Systems for Science and Engineering. Springer-Verlag.)
 
+## Harmonic balance ([source](https://github.com/schilln/harmonic_balance_python))
+
+The harmonic balance method (HBM) computes the response of a nonlinear system to a periodic input.
+The canonical example of a system to which the method can be applied is shaking a mass on a spring.
+However, more complicated and useful systems are common, such as a vibrating rotor in a car or jet engine.
+
+The method assumes inputs and outputs can be approximated with truncated Fourier series.
+It is commonly developed using trigonometric basis functions (i.e., sines and cosines), but I attempt to develop the theory and implement it using complex exponential functions (i.e., $\exp(i \theta)$).
+While some work remains to be done, I've made significant progress, and it's been a fun experience working through the math with relevant literature as a guide.
 
 ## CAD (computer-aided design)
 What do you get when you combine **3D modeling** with **math and programming**?
