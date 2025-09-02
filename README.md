@@ -31,6 +31,14 @@ The method assumes inputs and outputs can be approximated with truncated Fourier
 It is commonly developed using trigonometric basis functions (i.e., sines and cosines), but I attempt to develop the theory and implement it using complex exponential functions (i.e., $\exp(i \theta)$).
 While some work remains to be done, I've made significant progress, and it's been a fun experience working through the math with relevant literature as a guide.
 
+## memorize app ([source](https://github.com/schilln/memorize))
+
+I developed an app!
+It's meant to help with memorizing passages of text.
+I couldn't find an app with what I was looking for—at least without costing something or having ads—so naturally I spent hours figuring out how to develop it myself.
+The app's not on Google Play yet, but we'll get there.
+The app uses the [Dart](https://dart.dev/) language and the [Flutter](https://flutter.dev/) framework.
+
 ## CAD (computer-aided design)
 
 What do you get when you combine **3D modeling** with **math and programming**?
